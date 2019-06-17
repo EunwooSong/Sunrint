@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "low poly fight TPS game.CSharp.Plugins", "low poly fight TPS game.CSharp.Plugins.csproj", "{0CD445EE-6A58-CEAE-A9CD-3822A9410C30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "low poly fight TPS game.CSharp", "low poly fight TPS game.CSharp.csproj", "{F887A869-5440-2E36-2568-D2BFFEF1ECC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "low poly fight TPS game.CSharp.Editor", "low poly fight TPS game.CSharp.Editor.csproj", "{6D5FC8D4-87FC-7542-9BA1-468B486E7DE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CD445EE-6A58-CEAE-A9CD-3822A9410C30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CD445EE-6A58-CEAE-A9CD-3822A9410C30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CD445EE-6A58-CEAE-A9CD-3822A9410C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CD445EE-6A58-CEAE-A9CD-3822A9410C30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F887A869-5440-2E36-2568-D2BFFEF1ECC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F887A869-5440-2E36-2568-D2BFFEF1ECC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F887A869-5440-2E36-2568-D2BFFEF1ECC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F887A869-5440-2E36-2568-D2BFFEF1ECC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D5FC8D4-87FC-7542-9BA1-468B486E7DE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D5FC8D4-87FC-7542-9BA1-468B486E7DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D5FC8D4-87FC-7542-9BA1-468B486E7DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D5FC8D4-87FC-7542-9BA1-468B486E7DE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

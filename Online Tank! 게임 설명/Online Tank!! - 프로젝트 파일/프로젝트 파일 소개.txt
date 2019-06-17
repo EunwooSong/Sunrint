@@ -1,0 +1,4 @@
+Online_Tank!! -> 맵 프로젝트
+Online_Tank(TestServer) -> 멀티 프로젝트
+
+(맵과 멀티 기능 등을 제작할 때 프로젝트를 분리하여 제작함)
